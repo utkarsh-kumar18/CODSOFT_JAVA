@@ -15,3 +15,7 @@ A Java program to calculate total marks, average percentage, and grade.
 ## Language
 
 Java
+
+## Output
+
+![Number Game Output](task2_output.png)
