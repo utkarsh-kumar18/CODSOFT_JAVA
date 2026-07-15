@@ -1,3 +1,6 @@
+![Java](https://img.shields.io/badge/Language-Java-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # CODSOFT Java Development Internship
 
 This repository contains the Java Development Internship tasks completed as part of the CodSoft Internship Program.
@@ -32,6 +35,21 @@ GitHub: https://github.com/utkarsh-kumar18
 CODSOFT_JAVA
 │
 ├── Task1_NumberGame
+│   ├── NumberGame.java
+│   ├── README.md
+│   └── NumberGame_output.png
+│
 ├── Task2_StudentGradeCalculator
-└── Task3_ATMInterface
+│   ├── README.md
+│   ├── StudentGradeCalculator.java
+│   └── StudentGradeCalculator_output.png
+│
+├── Task3_ATMInterface
+│   ├── ATM.java
+│   ├── BankAccount.java
+│   ├── README.md
+│   └── ATMInterface_output.png
+│
+├── .gitignore
+├── README.md
 ```
