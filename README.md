@@ -28,8 +28,10 @@ GitHub: https://github.com/utkarsh-kumar18
 
 ## Project Structure
 
+```text
 CODSOFT_JAVA
 │
 ├── Task1_NumberGame
 ├── Task2_StudentGradeCalculator
 └── Task3_ATMInterface
+```
