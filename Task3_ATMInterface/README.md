@@ -17,4 +17,4 @@ Java
 
 ## Output
 
-![ATM Interface Output](task3_output.png)
+![ATM Interface Output](ATMInterface_output.png)
