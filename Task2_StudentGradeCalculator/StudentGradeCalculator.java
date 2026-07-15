@@ -4,6 +4,8 @@ public class StudentGradeCalculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
+        System.out.println("==== Welcome to the Student Grade Calculator! ====");
+
         System.out.print("Enter number of subjects: ");
         int subjects = sc.nextInt();
 

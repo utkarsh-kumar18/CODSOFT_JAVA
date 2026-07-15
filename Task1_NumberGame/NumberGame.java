@@ -37,7 +37,7 @@ public class NumberGame {
 
                 attempts--;
                 if (attempts > 0) {
-                    System.out.println("You have " + attempts + " attempts left.");
+                    System.out.println("You have " + attempts + " attempts left.\n");
                 }
             }
 
