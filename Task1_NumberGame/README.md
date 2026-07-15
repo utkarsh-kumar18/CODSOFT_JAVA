@@ -15,3 +15,7 @@ A Java console application where the player guesses a randomly generated number.
 ## Language
 
 Java
+
+## Output
+
+![Number Game Output](image.png)
