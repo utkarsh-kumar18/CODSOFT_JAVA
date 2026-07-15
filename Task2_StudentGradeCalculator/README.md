@@ -18,4 +18,4 @@ Java
 
 ## Output
 
-![StudentGradeCalculator Output](task2_output.png)
+![StudentGradeCalculator Output](StudentGradeCalculator_output.png)
