@@ -51,5 +51,5 @@ CODSOFT_JAVA
 │   └── README.md
 │
 ├── .gitignore
-├── README.md
+└── README.md
 ```
