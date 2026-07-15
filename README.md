@@ -36,8 +36,8 @@ CODSOFT_JAVA
 │
 ├── Task1_NumberGame
 │   ├── NumberGame.java
-│   ├── README.md
-│   └── NumberGame_output.png
+│   ├── NumberGame_output.png
+│   └── README.md
 │
 ├── Task2_StudentGradeCalculator
 │   ├── README.md
@@ -46,9 +46,9 @@ CODSOFT_JAVA
 │
 ├── Task3_ATMInterface
 │   ├── ATM.java
+│   ├── ATMInterface_output.png
 │   ├── BankAccount.java
-│   ├── README.md
-│   └── ATMInterface_output.png
+│   └── README.md
 │
 ├── .gitignore
 ├── README.md
