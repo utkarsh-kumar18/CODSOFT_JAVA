@@ -18,4 +18,4 @@ Java
 
 ## Output
 
-![Number Game Output](image.png)
+![Number Game Output](task1_output.png)
