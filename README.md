@@ -25,3 +25,11 @@ A simple ATM system using Object-Oriented Programming (OOP) that allows users to
 **Utkarsh Kumar**
 
 GitHub: https://github.com/utkarsh-kumar18
+
+## Project Structure
+
+CODSOFT_JAVA
+│
+├── Task1_NumberGame
+├── Task2_StudentGradeCalculator
+└── Task3_ATMInterface
